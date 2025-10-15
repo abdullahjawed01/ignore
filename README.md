@@ -1,2 +1,2 @@
 # ignore
-this is my first ignore
+How to ignore files which we are pushing .
